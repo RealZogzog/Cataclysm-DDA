@@ -52,6 +52,72 @@
                     "boxer_shorts"
                 ]
             }
+    },{
+
+            "type": "profession",
+            "ident": "bionic_proprepper",
+            "name": "Bionic Pro Prepper",
+            "description": "You knew the end was coming.  You augmented yourself with the best basic bionics and got awesome survival training.  Now the end has come, and it is time to see if your efforts have paid off.",
+            "points": 7,
+            "CBMs":[
+		"bio_power_storage_mkII",
+		"bio_power_storage_mkII",
+                "bio_torsionratchet",
+		"bio_fingerhack",
+                "bio_tools",
+                "bio_sunglasses"
+            ],
+            "skills": [
+                {
+                "level": 3,
+                "name": "archery"
+           	 },
+		{
+                    "level": 1,
+                    "name": "survival"
+                },
+                {
+                    "level": 1,
+                    "name": "fabrication"
+                },
+                {
+                    "level": 1,
+                    "name": "cooking"
+                },
+                {
+                    "level": 1,
+                    "name": "firstaid"
+                }
+            ],
+        "items": {
+            "both": [
+                "boots_combat",
+                "bootstrap",
+		"knife_swissarmy",
+                "legrig",
+                "gloves_tactical",
+                "jacket_army",
+                "molle_pack",
+		"kevlar",
+		"longshirt",
+                "bandana",
+		"helmet_army",
+		"katana",
+		"knife_combat",
+		"fanny",
+		"leather_belt",
+		"usp_9mm",
+		"9mm",
+		"wristwatch"
+            ],
+            "male": [
+                "pants_army"
+            ],
+            "female": [
+                "bra",
+                "pants_army"
+            ]
+            }
     },
     {
         "type": "profession",
